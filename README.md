@@ -1,5 +1,6 @@
 # International debt
-Overview
+## Overview
+
 This document outlines the process of exploring a PostgreSQL database containing debt data from various countries. The goal is to analyze the dataset by answering specific key questions related to total debt, distinct countries, types of debt indicators, and trends in debt repayment.
 
 
