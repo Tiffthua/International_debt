@@ -1,9 +1,15 @@
-# Lux
-Assignment on international debt 
-What is the total amount of debt owed by all countries in the dataset? =  ANS total debt 3089378312192
-How many distinct countries are recorded in the dataset? = ANS 25 distinct debt indiator
-What are the distinct types of debt indicators, and what do they represent? = ANS China - total 96218619904
-What is the average debt across different debt indicators? = ANS - Average debt 5009656750.7741995
-Which country has made the highest amount of principal repayments? = ANS Albania - 514185632
-What is the most common debt indicator across all countries? ANS -Principal repayments on external debt, long-term (AMT, current US$) - 128
-Identify any other key debt trends and summarize your findings. Ans country with the least to most amount of debt - Sao Tome and Principe - 44798028 to China 96218619904
+# International debt
+Overview
+This document outlines the process of exploring a PostgreSQL database containing debt data from various countries. The goal is to analyze the dataset by answering specific key questions related to total debt, distinct countries, types of debt indicators, and trends in debt repayment.
+
+
+# Insights and Findings
+Total Debt: The total amount of debt owed by all countries provides a macro view of global debt levels.
+Distinct Countries: Understanding the number of distinct countries helps in assessing the dataset's coverage.
+Types of Debt Indicators: Knowing the various types of debt indicators can help stakeholders understand different dimensions of debt.
+Country with Highest Debt: Identifying the country with the highest debt can highlight economic vulnerabilities.
+Average Debt Insights: Analyzing average debt across indicators offers insights into the burden of debt relative to economic size.
+Principal Repayments: The country with the highest repayments may indicate strong financial management or recovery efforts.
+Common Debt Indicators: Understanding which indicators are most prevalent can assist in standardizing reporting and analysis.
+
+
